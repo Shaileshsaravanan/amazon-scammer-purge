@@ -1,1 +1,1 @@
-# amazon-scammer-purge
+# Amazon Scammer Purge
